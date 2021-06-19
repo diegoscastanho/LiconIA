@@ -1,4 +1,5 @@
-# LiconIA  - FRAMEWORK PARA UTILIZAÇÃO DA REGRESSÃO LINEAR MÚLTIPLA COM ALGORITMOS DE OTIMIZAÇÃO
+# LiconIA
+## Framework that uses artificial intelligence applied to mathematical models to make predictions
 
 ![GitHub Release](https://img.shields.io/badge/release-v0.0.1-blue.svg)
 ![GitHub license](https://img.shields.io/badge/license-Proprietary-yellow.svg)
